@@ -1,0 +1,23 @@
+.bg-secondary-header{
+    background-color: #264653;
+    ;
+}
+.header-button-btn-primary{
+    background-color: #E76F51;
+    color: #ffff;
+
+}
+.best-bike-collection-color{
+    color: #E76F51;
+
+}
+.clients-say-color{
+    color: #E76F51;
+
+}
+.star-icons-color{
+    color: #E77C40;
+}
+.fetured-bike-grey{
+    filter: grayscale(1);
+}
