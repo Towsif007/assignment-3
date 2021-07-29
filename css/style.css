@@ -21,3 +21,6 @@
 .fetured-bike-grey{
     filter: grayscale(1);
 }
+.third-card-img{
+    border-radius: 100%;
+}
